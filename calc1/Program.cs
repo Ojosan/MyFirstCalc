@@ -13,7 +13,7 @@ namespace calc1
             Console.WriteLine("welcome " + user + "!");
   
             //separator, for more organization
-            Console.WriteLine("---------------------------------\n");
+            Console.WriteLine("-----------------------------------------\n");
        
             
             //inputs numbers
